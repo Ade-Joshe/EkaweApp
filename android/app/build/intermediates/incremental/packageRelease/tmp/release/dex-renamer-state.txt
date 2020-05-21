@@ -1,0 +1,4 @@
+#Tue Apr 28 21:48:25 WAT 2020
+base.0=/Users/mac/Documents/development/extras/EkaweApp/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
